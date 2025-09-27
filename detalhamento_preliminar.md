@@ -1,5 +1,12 @@
 # Roteiro dos Temas  
-*Alunos do Curso de Ciência da Computação*  
+*Guilherme Vieira Françoia*  
+*Igor Augusto Borba Costa*
+*Jean William Silva*
+*Pedro Augusto T. Cogo*
+*Raphael Leite Emboaba*
+*Sthefano Moura Pompeu*
+*Tarek Vilas Boas Salah*
+*Vinicius Eduardo Brasiliano dos Santos*
 *PUC Minas - Campus Poços de Caldas*  
 Setembro 2025
 
