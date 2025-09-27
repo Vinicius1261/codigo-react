@@ -1,19 +1,5 @@
 # CONSCIENTIZAÇÃO EM CIBERSEGURANÇA ENTRE ESTUDANTES UNIVERSITÁRIOS: ANÁLISE E PROPOSTA DE INTERVENÇÃO
 
-**Autores:** Raphael Leite Emboaba,
-Vinicius Eduardo Brasiliano dos Santos,
-Guilherme Vieira Françoia,
-Igor Augusto Borba Costa,
-Jean William Silva,
-Pedro Augusto T. Cogo,
-Sthefano Moura Pompeu,
-Tarek Vilas Boas Salah.]  
-**Curso:** Ciência da Computação  
-**Instituição:** Pontifícia Universidade Católica de Minas Gerais - Campus Poços de Caldas  
-**Data:** Setembro de 2025  
-
----
-
 ## 🔍 RESUMO
 
 Este estudo investiga o nível de conscientização em cibersegurança entre estudantes universitários da PUC Minas, campus Poços de Caldas. Por meio de pesquisa quantitativa com 19 participantes, identificou-se que os estudantes passam em média 8,8 horas diárias expostos à internet, com 47% já tendo sido vítimas de golpes digitais. Apesar de 47% se considerarem com conhecimento intermediário, observou-se baixa adoção de práticas básicas de segurança. Como proposta de intervenção, desenvolveu-se um site educativo com quiz diagnóstico, dicas práticas e simuladores de risco. Conclui-se pela necessidade urgente de iniciativas educativas sistematizadas sobre segurança digital no ambiente acadêmico.
