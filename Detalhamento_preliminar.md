@@ -139,5 +139,3 @@ A proposta do site interativo representa solução viável para capacitação di
 - TORRES, E. F. **Comportamento de Risco no Ambiente Digital.** Revista Brasileira de Segurança da Informação, v. 15, n. 2, p. 45-62, 2025.
 
 ---
-
-*Documento gerado para fins acadêmicos - Projeto de Pesquisa em Cibersegurança*
