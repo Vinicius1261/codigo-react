@@ -1,13 +1,13 @@
 # CONSCIENTIZAÇÃO EM CIBERSEGURANÇA ENTRE ESTUDANTES UNIVERSITÁRIOS: ANÁLISE E PROPOSTA DE INTERVENÇÃO
 
-**Autores:** Raphael Leite Emboaba
-Vinicius Eduardo Brasiliano dos Santos
-Guilherme Vieira Françoia
-Igor Augusto Borba Costa
-Jean William Silva
-Pedro Augusto T. Cogo
-Sthefano Moura Pompeu
-Tarek Vilas Boas Salah]  
+**Autores:** Raphael Leite Emboaba,
+Vinicius Eduardo Brasiliano dos Santos,
+Guilherme Vieira Françoia,
+Igor Augusto Borba Costa,
+Jean William Silva,
+Pedro Augusto T. Cogo,
+Sthefano Moura Pompeu,
+Tarek Vilas Boas Salah.]  
 **Curso:** Ciência da Computação  
 **Instituição:** Pontifícia Universidade Católica de Minas Gerais - Campus Poços de Caldas  
 **Data:** Setembro de 2025  
